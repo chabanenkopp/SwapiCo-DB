@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "star": "swapico-e0203",
+    "default": "swapico-e0203",
+    "starwars": "swapicodb"
+  }
+}

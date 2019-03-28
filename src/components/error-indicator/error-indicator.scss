@@ -1,0 +1,19 @@
+.error-indicator {
+  color: #f79b09;
+  margin: 0 auto;
+  span {
+    display: block;
+    text-align: center;
+  }
+  img {
+    display: block;
+    height: 4rem;
+    margin: 0 auto;
+  }
+}
+
+.boom {
+  text-transform: uppercase;
+  font-size: 30px;
+  font-weight: bold;
+}
