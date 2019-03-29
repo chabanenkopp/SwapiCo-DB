@@ -94,4 +94,4 @@ export default class SwapiService {
 }
 
 const Service = new SwapiService()
-Service.getAllStarships().then(person => console.log(person))
+Service.getStarship(3).then(person => console.log(person))
